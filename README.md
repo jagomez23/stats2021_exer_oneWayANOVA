@@ -4,11 +4,11 @@ A video demonstration for this assignment is available here: https://youtu.be/GI
 
 ## Summary of steps to complete
 
-- [ ] Fork this repository so you have your own copy to work on.
-- [ ] Clone the repository on your local machine. 
-- [ ] Read through the .rtf answer sheet included in this repository. (It's probably best to complete the steps of the assignment using that answer sheet.)
-- [ ] Complete the steps of the tutorial.
-- [ ] Push your updated file to your GitHub repository.
+- [X] Fork this repository so you have your own copy to work on.
+- [X] Clone the repository on your local machine. 
+- [X] Read through the .rtf answer sheet included in this repository. (It's probably best to complete the steps of the assignment using that answer sheet.)
+- [X] Complete the steps of the tutorial.
+- [X] Push your updated file to your GitHub repository.
 
 ## Fork & Clone this repository
 

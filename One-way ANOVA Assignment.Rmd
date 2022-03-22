@@ -48,7 +48,7 @@ The rio package works for importing several different types of data files. We're
 
 ```{r}
 # Using the file.choose() command allows you to select a file to import from another folder.
-dataset <- rio::import(file.choose())
+dataset <- rio::import('Puppies.sav')
 # This command will allow us to import a file included in our project folder.
 # dataset <- rio::import("Album Sales.sav")
 ```
